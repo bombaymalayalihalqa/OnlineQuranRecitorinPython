@@ -25,9 +25,9 @@ I implemented my favorite recitor Saud Shuraim in ogg
 
 * Probable improvements
 
-- A gui
-- Adding recitation as in zekr
-- Pause and stop
+1. A gui
+2. Adding recitation as in zekr
+3. Pause and stop
 
      Unfortunately my python knowledge is not enough...
 
